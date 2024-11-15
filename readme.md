@@ -1,6 +1,6 @@
 # Telegram Username Extractor
 
-Welcome to **Telegram Username Extractor**, a tool designed to extract usernames from all the groups and channels you've joined. Developed by **Infinity Artist**, this script simplifies the process of gathering usernames for various purposes.
+Welcome to **Telegram Username Extractor**, a tool designed to extract usernames of all the groups and channels you've joined. Developed by **Infinity Artist**, this script simplifies the process of gathering usernames for various purposes.
 
 Contact Me Here: t.me/@Spider006
 
